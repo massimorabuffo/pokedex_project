@@ -8,7 +8,7 @@ const HomePokedex = () => {
     }
 
     return <div className="home">
-                <button onClick={handleButton}>Click!</button>
+                <button onClick={handleButton}></button>
             </div>
 }
 
